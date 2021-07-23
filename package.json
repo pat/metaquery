@@ -19,9 +19,7 @@
       "url": "https://github.com/benschwarz/metaquery/blob/master/LICENSE-MIT"
     }
   ],
-  "dependencies": {
-    "grunt": "~0.4.1"
-  },
+  "dependencies": {},
   "scripts": {
     "test": "grunt travis --verbose"
   },
